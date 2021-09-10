@@ -40,7 +40,8 @@ section.cover {
 section.cover .cover-main {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: cen
+  ter;
   flex-direction: column;
   margin: 0;
   padding: 32px 16px 0;
