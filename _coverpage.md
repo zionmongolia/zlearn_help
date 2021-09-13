@@ -6,13 +6,13 @@
 
 <br>
 
-<h2>KKKKKKKKKKKKKK</h2>
+<h2>Гарчиг</h2>
 <h4>ОНЛАЙН ТУСЛАМЖ</h4>
 
 <br>
 <div class="buttons">
   <a href="#basics"><span>ГАРЫН АВЛАГА</span></a>
-  <a href="https://hr.csc.gov.mn/doc/" target="_blank"><span>ВЕБ СЕРВИС</span></a>
+  <a href="http://learn.zion.mn" target="_blank"><span>Цахим контент</span></a>
 </div>
 
 ![color](#ffffff)
