@@ -1,7 +1,3 @@
-<div class="hr-logo">
-  <div class="logo"></div>
-</div>
-
 ![logo](assets/images/fm_cover.png)
 
 <br>
@@ -18,4 +14,4 @@
   <a href="http://learn.zion.mn" target="_blank"><span>Цахим контент</span></a>
 </div>
 
-![color](#ffffff)
+![color](#5A8B27)

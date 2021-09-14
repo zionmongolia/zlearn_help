@@ -1,6 +1,6 @@
 :root {
-  --theme-color: #e50914;
-  --theme-color-dark: #b20710;
+  --theme-color: #3E9026;
+  --theme-color-dark: #3E9026;
 
   --text-color-base: #2e2e46;
   --text-color-secondary: #646473;
@@ -34,7 +34,7 @@ section.cover {
    * Intended to defeat this inline style on initial boot that flashes when on page load:
    * https://github.com/docsifyjs/docsify/blob/8352a1e489abc2a7b6361fe02d696e1891a031cd/src/core/render/tpl.js#L56-L70
    */
-  background: #fff !important;
+  background: #ffffff !important;
 }
 
 section.cover .cover-main {
@@ -152,7 +152,7 @@ section.cover.show ~ .sidebar-toggle {
 
 .cover-main .buttons a:hover {
   color: white;
-  box-shadow: 0 5px 16px rgba(229, 9, 20, 0.3);
+  box-shadow: 0 5px 16px #3E9026(229, 9, 20, 0.3);
 }
 
 .cover-main .buttons a:hover:after {
