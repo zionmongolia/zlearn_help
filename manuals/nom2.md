@@ -1,6 +1,4 @@
-<h1 align="center"><img src="assets/images/icon_manual.png" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>УРГАМАЛ ХАМГААЛАХ ЦОГЦ
-АРГА, УРГАМАЛ ХАМГААЛЛЫН
-БОДИСЫН ХЭРЭГЛЭЭ</h1>
+<h1 align="center"><img src="assets/images/icon_manual.png" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Ургамал хамгаалах цогц арга, ургамал хамгааллын бодисын хэрэглээ</h1>
 
 <script>PDFObject.embed("assets/manuals/nom2.pdf", "#book");</script>
 

@@ -1,6 +1,4 @@
-<h1 align="center"><img src="assets/images/icon_manual.png" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>ХӨРСНИЙ ҮРЖИЛ ШИМ, БОРДОО,
-БОРДОХ ТЕХНОЛОГИЙН
-ГАРЫН АВЛАГА</h1>
+<h1 align="center"><img src="assets/images/icon_manual.png" style="width: 48px;vertical-align: middle;padding-right: 10px;"/>Хөрсний үржил шим, бордоо, бордох технологийн гарын авлага</h1>
 
 <script>PDFObject.embed("assets/manuals/nom1.pdf", "#book");</script>
 
