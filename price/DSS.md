@@ -11,7 +11,25 @@ https://dss-mongolia.org/
 
 ![](../assets/images/price_1.png)
 
+2. Цэсэн дэх Тэжээлийн хэсэг буюу **Fodder** гэсэн сонголт дээр дарна. 
 
+![](../assets/images/price_2.png)
+
+3. **Select fodder type** хэсгээс Тэжээлийн үнийн мэдээлэл буюу **Fodder price** хэсгийг сонгоно.
+
+![](../assets/images/price_3.png)
+
+4. Малын тэжээлийн төрлөө сонгоно. 
+
+![](../assets/images/price_4.png)
+
+5. **Generate map** хэсэг дээр дарахад Газрын зураг өөрчлөгдөж харагдана.
+
+![](../assets/images/price_5.png)
+
+6. Дурын аймаг дээр дарахад тухайн аймгийн үнийн мэдээлэл гарж ирнэ.
+
+![](../assets/images/price_6.png)
 
 
 
