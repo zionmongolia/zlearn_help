@@ -1,7 +1,3 @@
-- <img src="assets/images/logo_introduction.png" style="width:36px;"/> **ТЭЖЭЭЛИЙН ТОГТВОРТОЙ МЕНЕЖМЕНТ ТӨСЛИЙН ТУХАЙ**  
-    -  [Төслийн танилцуулга](introduction/taniltsuulga.md)
-
-
 - <img src="assets/images/icon_handbook.jpg" style="width:36px;"/> СИСТЕМ АШИГЛАХ ГАРЫН АВЛАГА
     - [Мобайл аппликейшн](application/mobile.md)
     - [Веб аппликейшн](application/web.md)
@@ -25,8 +21,8 @@
     
 
 - <img src="assets/images/icon_manual.png" style="width:36px;"/> ХАА-Н ГАРЫН АВЛАГА
-    - [Ном 1](manual/book1.md)
-    - [Ном 2](manual/book2.md)
+    - [ХӨРСНИЙ ҮРЖИЛ ШИМ, БОРДОО, БОРДОХ ТЕХНОЛОГИЙН ГАРЫН АВЛАГА](manuals/nom1.md)
+    - [УРГАМАЛ ХАМГААЛАХ ЦОГЦ АРГА, УРГАМАЛ ХАМГААЛЛЫН БОДИСЫН ХЭРЭГЛЭЭ](manuals/nom2.md)
 
 - <img src="assets/images/icon_law.png" style="width:36px;"/> ХУУЛЬ, ЭРХ ЗҮЙН АКТ
     - [Бэлчээр ашиглах, хамгаалах журам ](law/pasture.md)
