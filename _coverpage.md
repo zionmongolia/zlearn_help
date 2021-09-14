@@ -1,4 +1,4 @@
-![logo](assets/images/fm_cover.png)
+![logo](assets/images/fm_cover.jpg)
 
 <br>
 
