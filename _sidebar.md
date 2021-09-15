@@ -1,5 +1,4 @@
-- <img src="assets/images/icon_handbook.png" style="width:24px;"/> СИСТЕМИЙН ГАРЫН АВЛАГА
-    - [Мобайл аппликейшн](application/mobile.md)
+- <img src="assets/images/icon_handbook.png" style="width:24px;"/> СИСТЕМИЙН ТУХАЙ
     - [Веб аппликейшн](application/web.md)
 
 - <img src="assets/images/icon_map.png" style="width:24px;"/> DSS-ИЙН ТУХАЙ
